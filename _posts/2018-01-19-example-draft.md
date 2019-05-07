@@ -5,6 +5,7 @@ date: 2018-01-19T00:00:00.000+00:00
 sub_heading: Example Draft
 tags: []
 related_posts: []
+banner_image: "/uploads/2018/02/17/bridge.jpg"
 
 ---
 ## What are draft posts?
